@@ -1,8 +1,8 @@
-# Lens API
+# GiveDAO Profile
 
-This repo has running code which you can execute to help you understand how to interact with the Lens API.
+This repo has running code which you can execute to help you understand how to interact with the GiveDAO Profile.
 
-Lens API is beta at the moment and can change without warning!
+GiveDAO is beta at the moment and can change without warning!
 
 Full documentation is available at [https://docs.lens.dev/docs/introduction](https://docs.lens.dev/docs/introduction).
 
