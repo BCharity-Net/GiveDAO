@@ -1,0 +1,9 @@
+overwrite: true
+schema: "https://api-mumbai.lens.dev/"
+documents: "../graphql/*.grapql"
+generates:
+  ../graphql/graphql.tsx:
+    plugins:
+      - "typescript"
+      - "typescript-operations"
+      - "typescript-react-apollo"
